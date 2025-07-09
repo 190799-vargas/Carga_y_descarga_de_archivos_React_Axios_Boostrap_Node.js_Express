@@ -54,6 +54,9 @@ project/
 ### Seguridad
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge&logoColor=white)
 
+### Herramientas
+![Multer](https://img.shields.io/badge/Multer-00C7B7?style=for-the-badge&logo=multipart&logoColor=white)
+
 ## Configuración Inicial
 
 ### Requisitos
